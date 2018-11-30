@@ -1,3 +1,6 @@
+button {
+  margin: .2vw;
+}
 .size-buttons {
   display: table;
   margin: 2vh auto;

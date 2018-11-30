@@ -1,3 +1,12 @@
+body {
+  background: #000
+}
+button {
+  margin: .2vw;
+  background: #C10909;
+  border-radius: 5px;
+  border-width: 0;
+}
 .size-buttons {
   display: table;
   margin: 2vh auto;
