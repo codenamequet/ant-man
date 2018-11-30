@@ -1,0 +1,15 @@
+.size-buttons {
+  display: table;
+  margin: 2vh auto;
+}
+.ant-man-container {
+  display: table;
+  margin: 0 auto;
+}
+.ant-man-img {
+  height: 70vh;
+}
+.ant-man-logo {
+  margin-left: 15vw;
+  width: 40vw;
+}
